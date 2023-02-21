@@ -1,15 +1,7 @@
 <div align=center>
-<p align="center"><img src="https://www.linkpicture.com/q/hasoki.jpg" width="800px" height="200px" alt="ddos"></p>
- <p>
- <img src="https://img.shields.io/github/stars/cutipu/HASOKI?color=%23DF0067&style=for-the-badge"/> &nbsp;
- <img src="https://img.shields.io/github/forks/cutipu/HASOKI?color=%239999FF&style=for-the-badge"/> &nbsp;
-  <a href="#"><img alt="Hasoki last commit (main)" src="https://img.shields.io/github/last-commit/cutipu/HASOKI/main?color=green&style=for-the-badge"></a>
- <a href="https://github.com/cutipu/HASOKI/issues"><img alt="MatrixTM issues" src="https://img.shields.io/github/issues/cutipu/HASOKI?color=purple&style=for-the-badge"></a>
-   <img src="https://img.shields.io/github/license/cutipu/HASOKI?color=%23E8E8E8&style=for-the-badge"/> &nbsp;
-</p>
+<p align="center"><img src="https://www.linkpicture.com/q/OKDDOS.jpg" width="800px" height="200px" alt="ddos"></p>
  DDoS Attack Panel includes CloudFlare Bypass (UAM, CAPTCHA, GS ,VS ,BFM, etc..)<br/><br/>
  This is open source code. I am not responsible if you use it for malicious attacks!
-<p align="center"><img src="https://www.linkpicture.com/q/yaso1_1.png"width="600px" height="500px" alt="ddos"></p>
 </div>
 
 ```sh
@@ -26,8 +18,6 @@
  <img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/></br>
 </div>
 
-## Menu
-![hasoki](https://www.linkpicture.com/q/Screenshot-153_1.png)
 ## Methods
 
 ```sh
@@ -68,7 +58,7 @@
 ## Usage
 ```sh
 You must use Python 3.9 or higher
-DOWNLOAD:  git clone https://github.com/cutipu/HASOKI.git
+DOWNLOAD:  git clone https://github.com/Wins1012/OKDDOS.git
 INSTALL: - python setup.py install or python3 setup.py install
          - with pip:
            pip3 install -r requirements.txt  or  pip install -r requirements.txt
@@ -79,9 +69,4 @@ NOTICE: For bypass work need install lastest verion Chrome
 ```
 
 ## Contact Developer
-```sh
- Buy Me a Coffee BTC: 34zoKEUcZ42mKEUc1gB836k9puQ1MiugNr
- LEAKS https://t.me/hackingleak
- Dev : https://t.me/rebychubx
-```
-
+ZALO : 0395176610
